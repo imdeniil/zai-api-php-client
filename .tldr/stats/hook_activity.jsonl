@@ -1,0 +1,1 @@
+{"hook_name": "tldr-read-enforcer", "invocations": 5, "successes": 5, "failures": 0, "metrics": {"reads_intercepted": 5, "layers_returned": 10}, "timestamp": "2026-03-23T10:37:29.544773+00:00"}

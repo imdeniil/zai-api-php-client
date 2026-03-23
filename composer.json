@@ -1,0 +1,32 @@
+{
+    "name": "zai/z-ai-sdk-php",
+    "description": "ZAI API PHP Client",
+    "type": "library",
+    "require": {
+        "php": "^8.1",
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/polyfill-mbstring": "^1.28",
+        "symfony/polyfill-ctype": "^1.28"
+    },
+    "require-dev": {
+        "pestphp/pest": "^2.34",
+        "phpstan/phpstan": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zai\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zai\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
