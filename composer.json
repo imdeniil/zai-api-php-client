@@ -1,5 +1,5 @@
 {
-    "name": "zai/z-ai-sdk-php",
+    "name": "imdeniil/zai-api-php-client",
     "description": "ZAI API PHP Client",
     "type": "library",
     "require": {

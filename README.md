@@ -10,7 +10,7 @@ A PHP SDK for interacting with the ZAI API, styled after the official Python SDK
 ## Installation
 
 ```bash
-composer require zai/z-ai-sdk-php
+composer require imdeniil/zai-api-php-client
 ```
 
 ## Quick Start
